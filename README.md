@@ -1,4 +1,3 @@
-# Manim-full-Course-from-Basic-to-Advanced-By-FS-
 
 
 
@@ -247,7 +246,7 @@ This is the first section of the guide. The next sections will expand on more ad
 
 ---
 
-### **2.1 Basic Shapes and Mobjects (Continued)**
+### **2.1 Basic Shapes and Mobjects **
 
 As we mentioned earlier, Manim allows you to work with basic geometric shapes and objects, known as **Mobjects** (mathematical objects). These Mobjects are the building blocks for animations. In addition to the basic shapes, you can also combine them to create more complex visuals.
 
@@ -279,7 +278,7 @@ By using these shapes, you can begin to form more complex scenes, such as buildi
 
 ---
 
-### **2.2 Text and Math (10 Pages)**
+### **2.2 Text and Math **
 
 Manim’s ability to work with **text** and **mathematical equations** makes it a powerful tool for educational content creators, particularly in mathematics and science. Let’s explore how to add and animate text and mathematical equations.
 
@@ -346,7 +345,7 @@ class MathTextExample(Scene):
 
 ---
 
-### **2.3 Animations (10 Pages)**
+### **2.3 Animations **
 
 Manim allows you to animate everything. Animations can make your scenes more engaging and help clarify abstract concepts. Let’s explore the different types of animations available in Manim.
 
@@ -419,7 +418,7 @@ class TransformExample(Scene):
 
 ---
 
-### **2.4 Combining Mobjects (5 Pages)**
+### **2.4 Combining Mobjects**
 
 In Manim, you often work with multiple Mobjects in a scene. You can group them together, animate them together, and manipulate them as a unit.
 
@@ -478,7 +477,7 @@ group.rotate(PI / 4)  # Rotate the group by 45 degrees
 
 ---
 
-### **3.1 Graphing and Plotting Functions (15 Pages)**
+### **3.1 Graphing and Plotting Functions **
 
 Manim excels at graphing functions, and it includes several tools to visualize mathematical concepts like functions, derivatives, and integrals. In this section, we will cover how to graph basic functions and animate them.
 
@@ -546,7 +545,7 @@ class DerivativeGraph(Scene):
 
 ---
 
-### **3.2 Parametric Curves (10 Pages)**
+### **3.2 Parametric Curves **
 
 Parametric curves are powerful for visualizing complex shapes and trajectories. In Manim, you can plot parametric equations using the `ParametricFunction` class.
 
@@ -607,7 +606,7 @@ class ParametricDot(Scene):
 
 ---
 
-### **3.3 3D Animation and Objects (20 Pages)**
+### **3.3 3D Animation and Objects **
 
 Manim also supports 3D animations, which are essential for creating visually rich, spatially-oriented educational content. We’ll explore how to create and animate 3D objects and scenes in Manim.
 
@@ -667,7 +666,7 @@ class Rotate3DCube(Scene):
 
 ---
 
-### **3.4 Advanced Animation Techniques (20 Pages)**
+### **3.4 Advanced Animation Techniques **
 
 Manim also supports **advanced animation techniques** that allow you to create more intricate scenes.
 
@@ -788,7 +787,7 @@ class Moving3DObject(ThreeDScene):
 
 ---
 
-### **4.2 Combining Manim with Other Python Libraries (15 Pages)**
+### **4.2 Combining Manim with Other Python Libraries **
 
 Manim can be integrated with other Python libraries such as **NumPy**, **SciPy**, and **matplotlib** to extend its capabilities. You can visualize scientific data, create plots, and animate them in Manim.
 
@@ -865,7 +864,7 @@ class DifferentialEquationExample(Scene):
 
 ---
 
-### **4.3 Automating Complex Animations (15 Pages)**
+### **4.3 Automating Complex Animations **
 
 Manim is highly customizable, and you can automate the creation of complex animations using Python's scripting capabilities. Let’s look at how to create multiple objects, apply multiple animations, and automate this process.
 
